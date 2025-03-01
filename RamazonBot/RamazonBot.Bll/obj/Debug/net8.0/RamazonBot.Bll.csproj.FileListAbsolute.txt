@@ -1,0 +1,15 @@
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\bin\Debug\net8.0\RamazonBot.Bll.deps.json
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\bin\Debug\net8.0\RamazonBot.Bll.dll
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\bin\Debug\net8.0\RamazonBot.Bll.pdb
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\obj\Debug\net8.0\RamazonBot.Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\obj\Debug\net8.0\RamazonBot.Bll.AssemblyInfoInputs.cache
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\obj\Debug\net8.0\RamazonBot.Bll.AssemblyInfo.cs
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\obj\Debug\net8.0\RamazonBot.Bll.csproj.CoreCompileInputs.cache
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\obj\Debug\net8.0\RamazonBot.Bll.dll
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\obj\Debug\net8.0\refint\RamazonBot.Bll.dll
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\obj\Debug\net8.0\RamazonBot.Bll.pdb
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\obj\Debug\net8.0\ref\RamazonBot.Bll.dll
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\bin\Debug\net8.0\RamazonBot.Dal.dll
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\bin\Debug\net8.0\RamazonBot.Dal.pdb
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\obj\Debug\net8.0\RamazonBot.Bll.csproj.AssemblyReference.cache
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Bll\obj\Debug\net8.0\RamazonB.B4B728F3.Up2Date

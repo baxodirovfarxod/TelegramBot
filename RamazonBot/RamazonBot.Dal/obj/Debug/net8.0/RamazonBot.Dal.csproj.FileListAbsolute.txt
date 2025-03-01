@@ -1,0 +1,14 @@
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\bin\Debug\net8.0\RamazonBot.Dal.deps.json
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\bin\Debug\net8.0\RamazonBot.Dal.runtimeconfig.json
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\bin\Debug\net8.0\RamazonBot.Dal.dll
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\bin\Debug\net8.0\RamazonBot.Dal.pdb
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\obj\Debug\net8.0\RamazonBot.Dal.csproj.AssemblyReference.cache
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\obj\Debug\net8.0\RamazonBot.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\obj\Debug\net8.0\RamazonBot.Dal.AssemblyInfoInputs.cache
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\obj\Debug\net8.0\RamazonBot.Dal.AssemblyInfo.cs
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\obj\Debug\net8.0\RamazonBot.Dal.csproj.CoreCompileInputs.cache
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\obj\Debug\net8.0\RamazonBot.Dal.dll
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\obj\Debug\net8.0\refint\RamazonBot.Dal.dll
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\obj\Debug\net8.0\RamazonBot.Dal.pdb
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\obj\Debug\net8.0\RamazonBot.Dal.genruntimeconfig.cache
+D:\C#\TelegramBot\RamazonBot\RamazonBot.Dal\obj\Debug\net8.0\ref\RamazonBot.Dal.dll
