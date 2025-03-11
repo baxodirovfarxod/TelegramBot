@@ -31,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{21A1C6DA-E94D-4C3F-BF4B-95DA96FABB7E}|RamazonBot\\RamazonBot.csproj|solutionrelative:ramazonbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\TelegramBot\\RamazonBot\\RamazonBot.Dal\\Migrations\\20250301035648_Test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RamazonBot.Dal\\Migrations\\20250301035648_Test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{866D2642-5274-4766-9056-C7BE961E9CC4}|RamazonBot.Bll\\RamazonBot.Bll.csproj|d:\\c#\\telegrambot\\ramazonbot\\ramazonbot.bll\\service\\ramazontimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{866D2642-5274-4766-9056-C7BE961E9CC4}|RamazonBot.Bll\\RamazonBot.Bll.csproj|solutionrelative:ramazonbot.bll\\service\\ramazontimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,6 +49,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0CD3A8F-E70F-4FC2-9C56-E994FE204250}|RamazonBot.Dal\\RamazonBot.Dal.csproj|d:\\c#\\telegrambot\\ramazonbot\\ramazonbot.dal\\migrations\\20250301022333_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0CD3A8F-E70F-4FC2-9C56-E994FE204250}|RamazonBot.Dal\\RamazonBot.Dal.csproj|solutionrelative:ramazonbot.dal\\migrations\\20250301022333_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CD3A8F-E70F-4FC2-9C56-E994FE204250}|RamazonBot.Dal\\RamazonBot.Dal.csproj|d:\\c#\\telegrambot\\ramazonbot\\ramazonbot.dal\\migrations\\20250301035648_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CD3A8F-E70F-4FC2-9C56-E994FE204250}|RamazonBot.Dal\\RamazonBot.Dal.csproj|solutionrelative:ramazonbot.dal\\migrations\\20250301035648_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "20250301035648_Test2.cs",
               "DocumentMoniker": "D:\\C#\\TelegramBot\\RamazonBot\\RamazonBot.Dal\\Migrations\\20250301035648_Test2.cs",
               "RelativeDocumentMoniker": "RamazonBot.Dal\\Migrations\\20250301035648_Test2.cs",
@@ -82,12 +82,11 @@
               "RelativeToolTip": "RamazonBot.Dal\\Migrations\\20250301035648_Test2.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T03:56:48.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T03:56:48.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "IRamazonTimeService.cs",
               "DocumentMoniker": "D:\\C#\\TelegramBot\\RamazonBot\\RamazonBot.Bll\\Service\\IRamazonTimeService.cs",
               "RelativeDocumentMoniker": "RamazonBot.Bll\\Service\\IRamazonTimeService.cs",
@@ -99,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "RamazonTimeService.cs",
               "DocumentMoniker": "D:\\C#\\TelegramBot\\RamazonBot\\RamazonBot.Bll\\Service\\RamazonTimeService.cs",
               "RelativeDocumentMoniker": "RamazonBot.Bll\\Service\\RamazonTimeService.cs",
@@ -111,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "20250301022333_InitialCreate.cs",
               "DocumentMoniker": "D:\\C#\\TelegramBot\\RamazonBot\\RamazonBot.Dal\\Migrations\\20250301022333_InitialCreate.cs",
               "RelativeDocumentMoniker": "RamazonBot.Dal\\Migrations\\20250301022333_InitialCreate.cs",
@@ -131,12 +130,11 @@
               "RelativeToolTip": "RamazonBot.Dal\\EntityConfigurations\\RamazonTimesConfiguration.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAMwBYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T02:05:59.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T02:05:59.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "RamazonTimes.cs",
               "DocumentMoniker": "D:\\C#\\TelegramBot\\RamazonBot\\RamazonBot.Dal\\Entities\\RamazonTimes.cs",
               "RelativeDocumentMoniker": "RamazonBot.Dal\\Entities\\RamazonTimes.cs",
@@ -148,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ITelegramBotService.cs",
               "DocumentMoniker": "D:\\C#\\TelegramBot\\RamazonBot\\RamazonBot.Bll\\Service\\ITelegramBotService.cs",
               "RelativeDocumentMoniker": "RamazonBot.Bll\\Service\\ITelegramBotService.cs",
@@ -168,8 +166,7 @@
               "RelativeToolTip": "RamazonBot.Bll\\Service\\TelegramBotService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAADgvxsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T10:56:43.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T10:56:43.092Z"
             },
             {
               "$type": "Document",
@@ -181,8 +178,7 @@
               "RelativeToolTip": "RamazonBot.Dal\\MainContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAIA/wBMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:07:13.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T06:07:13.49Z"
             },
             {
               "$type": "Document",
@@ -194,8 +190,7 @@
               "RelativeToolTip": "RamazonBot.Dal\\EntityConfigurations\\TelegramBotConfiguration.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAMwCAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T04:58:29.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T04:58:29.348Z"
             },
             {
               "$type": "Document",
@@ -207,8 +202,7 @@
               "RelativeToolTip": "RamazonBot.Dal\\Entities\\TelegramBot.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T04:54:38.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T04:54:38.298Z"
             },
             {
               "$type": "Document",
@@ -218,7 +212,7 @@
               "RelativeDocumentMoniker": "RamazonBot\\Service\\RamazonBotModule.cs",
               "ToolTip": "D:\\C#\\TelegramBot\\RamazonBot\\RamazonBot\\Service\\RamazonBotModule.cs",
               "RelativeToolTip": "RamazonBot\\Service\\RamazonBotModule.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAkwK0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwK0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T10:27:13.754Z",
               "EditorCaption": ""
@@ -233,8 +227,7 @@
               "RelativeToolTip": "RamazonBot\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAswBMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T10:10:22.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T10:10:22.691Z"
             }
           ]
         },

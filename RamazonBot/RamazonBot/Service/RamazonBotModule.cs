@@ -11,7 +11,7 @@ public class RamazonBotModule
 {
     private readonly ITelegramBotService _botService;
     private readonly IRamazonTimeService _timeService;
-    private static string botToken = "7798401767:AAHiCjIxcRHUcRn3Ole8n-iJTcjv8Ay87uI";
+    private static string botToken = "";
     private readonly ITelegramBotClient _botClient = new TelegramBotClient(botToken);
     private readonly ReplyKeyboardMarkup _startMenu;
 
